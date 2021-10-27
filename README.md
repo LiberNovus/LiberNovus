@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Justin</h1>
-<h3 align="center">An inquisitive and thoughtful soul who encountered upon the wonderful world of software engineering.</h3>
+<h3 align="center">An inquisitive and thoughtful soul embarking upon the adventure of software engineering.</h3>
 
 ### About Me
 
