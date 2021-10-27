@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Justin</h1>
-<h3 align="center">An inquisitive and thoughtful soul who encountered upon the wonderful world of software engineering</h3>
-
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-beere/)](https://www.linkedin.com/in/justin-beere/)
+<h3 align="center">An inquisitive and thoughtful soul who encountered upon the wonderful world of software engineering.</h3>
 
 ### About Me
 
 - I'm currently a Software Engineering Immersive Resident at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
+
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-beere/)](https://www.linkedin.com/in/justin-beere/)
 
 ### My Favorite Tech
 
