@@ -1,7 +1,4 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/justin-beere/">Justin</a></h1>
-<h3 align="center">An inquisitive and thoughtful soul embarking upon the adventure of software engineering.</h3>
-<h4 align="center">I'm currently a Software Engineering Immersive Resident at <a href="https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE">Hack Reactor</a></h3>
-
 
 
 ### My Favorite Tech
